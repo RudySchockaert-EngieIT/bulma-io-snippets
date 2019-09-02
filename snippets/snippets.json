@@ -1,0 +1,1106 @@
+{
+    "Bulma v Float is-clearfix": {
+        "prefix": "b:is-clearfix",
+        "body": "is-clearfix",
+        "description": "Fixes an element's floating children"
+    },
+    "Bulma Helpers Float is-pulled-left": {
+        "prefix": "b:is-pulled-left",
+        "body": "is-pulled-left",
+        "description": "Moves an element to the left"
+    },
+    "Bulma Helpers Float is-pulled-right": {
+        "prefix": "b:is-pulled-right",
+        "body": "is-pulled-right",
+        "description": "Moves an element to the right"
+    },
+    "Bulma Helpers Spacing is-marginless": {
+        "prefix": "b:is-marginless",
+        "body": "is-marginless",
+        "description": "Removes any margin"
+    },
+    "Bulma Helpers Spacing is-paddingless": {
+        "prefix": "b:is-paddingless",
+        "body": "is-paddingless",
+        "description": "Removes any padding"
+    },
+    "Bulma Helpers Other is-overlay": {
+        "prefix": "b:is-overlay",
+        "body": "is-overlay",
+        "description": "Completely covers the first positioned parent"
+    },
+    "Bulma Helpers Other is-clipped": {
+        "prefix": "b:is-clipped",
+        "body": "is-clipped",
+        "description": "Adds overflow hidden"
+    },
+    "Bulma Helpers Other is-radiusless": {
+        "prefix": "b:is-radiusless",
+        "body": "is-radiusless",
+        "description": "Removes any radius"
+    },
+    "Bulma Helpers Other is-shadowless": {
+        "prefix": "b:is-shadowless",
+        "body": "is-shadowless",
+        "description": "Removes any shadow"
+    },
+    "Bulma Helpers Other is-unselectable": {
+        "prefix": "b:is-unselectable",
+        "body": "is-unselectable",
+        "description": "Prevents the text from being selectable"
+    },
+    "Bulma Helpers Other is-invisible": {
+        "prefix": "b:is-invisible",
+        "body": "is-invisible",
+        "description": "Adds visibility hidden"
+    },
+    "Bulma Helpers Other is-hidden": {
+        "prefix": "b:is-hidden",
+        "body": "is-hidden",
+        "description": "Hides element"
+    },
+    "Bulma Helpers Other is-sr-only": {
+        "prefix": "b:is-sr-only",
+        "body": "is-sr-only",
+        "description": "Hide elements visually but keep the element available to be announced by a screen reader"
+    },
+    "Bulma Helpers Other is-relative": {
+        "prefix": "b:is-relative",
+        "body": "is-relative",
+        "description": "Applies 'position: relative' to the element."
+    },
+    "Bulma Responsive helpers is-block": {
+        "prefix": "b:is-block",
+        "body": "is-block",
+        "description": "'display: block !important;'"
+    },
+    "Bulma Responsive helpers is-block-mobile": {
+        "prefix": "b:is-block-mobile",
+        "body": "is-block-mobile",
+        "description": "'display: block !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-block-tablet": {
+        "prefix": "b:is-block-tablet",
+        "body": "is-block-tablet",
+        "description": "'display: block !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-block-tablet-only": {
+        "prefix": "b:is-block-tablet-only",
+        "body": "is-block-tablet-only",
+        "description": "'display: block !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-block-touch": {
+        "prefix": "b:is-block-touch",
+        "body": "is-block-touch",
+        "description": "'display: block !important;' for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-block-desktop": {
+        "prefix": "b:is-block-desktop",
+        "body": "is-block-desktop",
+        "description": "'display: block !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-block-desktop-only": {
+        "prefix": "b:is-block-desktop-only",
+        "body": "is-block-desktop-only",
+        "description": "'display: block !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-block-widescreen": {
+        "prefix": "b:is-block-widescreen",
+        "body": "is-block-widescreen",
+        "description": "'display: block !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-block-widescreen-only": {
+        "prefix": "b:is-block-widescreen-only",
+        "body": "is-block-widescreen-only",
+        "description": "'display: block !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-block-fullhd": {
+        "prefix": "b:is-block-fullhd",
+        "body": "is-block-fullhd",
+        "description": "'display: block !important;' for FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-flex": {
+        "prefix": "b:is-flex",
+        "body": "is-flex",
+        "description": "'display: flex !important;'"
+    },
+    "Bulma Responsive helpers is-flex-mobile": {
+        "prefix": "b:is-flex-mobile",
+        "body": "is-flex-mobile",
+        "description": "'display: flex !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-flex-tablet": {
+        "prefix": "b:is-flex-tablet",
+        "body": "is-flex-tablet",
+        "description": "'display: flex !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-flex-tablet-only": {
+        "prefix": "b:is-flex-tablet-only",
+        "body": "is-flex-tablet-only",
+        "description": "'display: flex !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-flex-touch": {
+        "prefix": "b:is-flex-touch",
+        "body": "is-flex-touch",
+        "description": "'display: flex !important;' for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-flex-desktop": {
+        "prefix": "b:is-flex-desktop",
+        "body": "is-flex-desktop",
+        "description": "'display: flex !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-flex-desktop-only": {
+        "prefix": "b:is-flex-desktop-only",
+        "body": "is-flex-desktop-only",
+        "description": "'display: flex !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-flex-widescreen": {
+        "prefix": "b:is-flex-widescreen",
+        "body": "is-flex-widescreen",
+        "description": "'display: flex !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-flex-widescreen-only": {
+        "prefix": "b:is-flex-widescreen-only",
+        "body": "is-flex-widescreen-only",
+        "description": "'display: flex !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-flex-fullhd": {
+        "prefix": "b:is-flex-fullhd",
+        "body": "is-flex-fullhd",
+        "description": "'display: flex !important;' for FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline": {
+        "prefix": "b:is-inline",
+        "body": "is-inline",
+        "description": "'display: inline !important;'"
+    },
+    "Bulma Responsive helpers is-inline-mobile": {
+        "prefix": "b:is-inline-mobile",
+        "body": "is-inline-mobile",
+        "description": "'display: inline !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-inline-tablet": {
+        "prefix": "b:is-inline-tablet",
+        "body": "is-inline-tablet",
+        "description": "'display: inline !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-tablet-only": {
+        "prefix": "b:is-inline-tablet-only",
+        "body": "is-inline-tablet-only",
+        "description": "'display: inline !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-touch": {
+        "prefix": "b:is-inline-touch",
+        "body": "is-inline-touch",
+        "description": "'display: inline !important;' for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-desktop": {
+        "prefix": "b:is-inline-desktop",
+        "body": "is-inline-desktop",
+        "description": "'display: inline !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-desktop-only": {
+        "prefix": "b:is-inline-desktop-only",
+        "body": "is-inline-desktop-only",
+        "description": "'display: inline !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-inline-widescreen": {
+        "prefix": "b:is-inline-widescreen",
+        "body": "is-inline-widescreen",
+        "description": "'display: inline !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-widescreen-only": {
+        "prefix": "b:is-inline-widescreen-only",
+        "body": "is-inline-widescreen-only",
+        "description": "'display: inline !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-inline-fullhd": {
+        "prefix": "b:is-inline-fullhd",
+        "body": "is-inline-fullhd",
+        "description": "'display: inline !important;' for FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-block": {
+        "prefix": "b:is-inline-block",
+        "body": "is-inline-block",
+        "description": "'display: inline-block !important;' "
+    },
+    "Bulma Responsive helpers is-inline-block-mobile": {
+        "prefix": "b:is-inline-block-mobile",
+        "body": "is-inline-block-mobile",
+        "description": "'display: inline-block !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-inline-block-tablet": {
+        "prefix": "b:is-inline-block-tablet",
+        "body": "is-inline-block-tablet",
+        "description": "'display: inline-block !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-block-tablet-only": {
+        "prefix": "b:is-inline-block-tablet-only",
+        "body": "is-inline-block-tablet-only",
+        "description": "'display: inline-block !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-block-touch": {
+        "prefix": "b:is-inline-block-touch",
+        "body": "is-inline-block-touch",
+        "description": "'display: inline-block !important;' for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-block-desktop": {
+        "prefix": "b:is-inline-block-desktop",
+        "body": "is-inline-block-desktop",
+        "description": "'display: inline-block !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-block-desktop-only": {
+        "prefix": "b:is-inline-block-desktop-only",
+        "body": "is-inline-block-desktop-only",
+        "description": "'display: inline-block !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-inline-block-widescreen": {
+        "prefix": "b:is-inline-block-widescreen",
+        "body": "is-inline-block-widescreen",
+        "description": "'display: inline-block !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-block-widescreen-only": {
+        "prefix": "b:is-inline-block-widescreen-only",
+        "body": "is-inline-block-widescreen-only",
+        "description": "'display: inline-block !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-inline-block-fullhd": {
+        "prefix": "b:is-inline-block-fullhd",
+        "body": "is-inline-block-fullhd",
+        "description": "'display: inline-block !important;' for FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-flex": {
+        "prefix": "b:is-inline-flex",
+        "body": "is-inline-flex",
+        "description": "'display: inline-flex !important;'"
+    },
+    "Bulma Responsive helpers is-inline-flex-mobile": {
+        "prefix": "b:is-inline-flex-mobile",
+        "body": "is-inline-flex-mobile",
+        "description": "'display: inline-flex !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-inline-flex-tablet": {
+        "prefix": "b:is-inline-flex-tablet",
+        "body": "is-inline-flex-tablet",
+        "description": "'display: inline-flex !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-flex-tablet-only": {
+        "prefix": "b:is-inline-flex-tablet-only",
+        "body": "is-inline-flex-tablet-only",
+        "description": "'display: inline-flex !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-flex-touch": {
+        "prefix": "b:is-inline-flex-touch",
+        "body": "is-inline-flex-touch",
+        "description": "'display: inline-flex !important;' for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-inline-flex-desktop": {
+        "prefix": "b:is-inline-flex-desktop",
+        "body": "is-inline-flex-desktop",
+        "description": "'display: inline-flex !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-flex-desktop-only": {
+        "prefix": "b:is-inline-flex-desktop-only",
+        "body": "is-inline-flex-desktop-only",
+        "description": "'display: inline-flex !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-inline-flex-widescreen": {
+        "prefix": "b:is-inline-flex-widescreen",
+        "body": "is-inline-flex-widescreen",
+        "description": "'display: inline-flex !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-inline-flex-widescreen-only": {
+        "prefix": "b:is-inline-flex-widescreen-only",
+        "body": "is-inline-flex-widescreen-only",
+        "description": "'display: inline-flex !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-inline-flex-fullhd": {
+        "prefix": "b:is-inline-flex-fullhd",
+        "body": "is-inline-flex-fullhd",
+        "description": "'display: inline-flex !important;' for FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-hidden": {
+        "prefix": "b:is-hidden",
+        "body": "is-hidden",
+        "description": "'display: none !important;'"
+    },
+    "Bulma Responsive helpers is-hidden-mobile": {
+        "prefix": "b:is-hidden-mobile",
+        "body": "is-hidden-mobile",
+        "description": "'display: none !important;' for Mobile (Up to 768px)"
+    },
+    "Bulma Responsive helpers is-hidden-tablet-only": {
+        "prefix": "b:is-hidden-tablet-only",
+        "body": "is-hidden-tablet-only",
+        "description": "'display: none !important;' for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-hidden-desktop-only": {
+        "prefix": "b:is-hidden-desktop-only",
+        "body": "is-hidden-desktop-only",
+        "description": "'display: none !important;' for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Responsive helpers is-hidden-widescreen-only": {
+        "prefix": "b:is-hidden-widescreen-only",
+        "body": "is-hidden-widescreen-only",
+        "description": "'display: none !important;' for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Responsive helpers is-hidden-touch": {
+        "prefix": "b:is-hidden-touch",
+        "body": "is-hidden-touch",
+        "description": "'display: none !important;' for Mobile (Up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Responsive helpers is-hidden-tablet": {
+        "prefix": "b:is-hidden-tablet",
+        "body": "is-hidden-tablet",
+        "description": "'display: none !important;' for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-hidden-desktop": {
+        "prefix": "b:is-hidden-desktop",
+        "body": "is-hidden-desktop",
+        "description": "'display: none !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-hidden-widescreen": {
+        "prefix": "b:is-hidden-widescreen",
+        "body": "is-hidden-widescreen",
+        "description": "'display: none !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Responsive helpers is-hidden-fullhd": {
+        "prefix": "b:is-hidden-fullhd",
+        "body": "is-hidden-fullhd",
+        "description": "'display: none !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Color Helpers has-text-white": {
+        "prefix": "b:has-text-white",
+        "body": "has-text-white",
+        "description": "Color hsl(0, 0%, 100%)"
+    },
+    "Bulma Color Helpers has-text-black": {
+        "prefix": "b:has-text-black",
+        "body": "has-text-black",
+        "description": "Color hsl(0, 0%, 4%)"
+    },
+    "Bulma Color Helpers has-text-light": {
+        "prefix": "b:has-text-light",
+        "body": "has-text-light",
+        "description": "Color hsl(0, 0%, 96%)"
+    },
+    "Bulma Color Helpers has-text-dark": {
+        "prefix": "b:has-text-dark",
+        "body": "has-text-dark",
+        "description": "Color hsl(0, 0%, 21%)"
+    },
+    "Bulma Color Helpers has-text-primary": {
+        "prefix": "b:has-text-primary",
+        "body": "has-text-primary",
+        "description": "Color hsl(171, 100%, 41%)"
+    },
+    "Bulma Color Helpers has-text-info": {
+        "prefix": "b:has-text-info",
+        "body": "has-text-info",
+        "description": "Color hsl(204, 86%, 53%)"
+    },
+    "Bulma Color Helpers has-text-link": {
+        "prefix": "b:has-text-link",
+        "body": "has-text-link",
+        "description": "Color hsl(217, 71%, 53%)"
+    },
+    "Bulma Color Helpers has-text-success": {
+        "prefix": "b:has-text-success",
+        "body": "has-text-success",
+        "description": "Color hsl(141, 71%, 48%)"
+    },
+    "Bulma Color Helpers has-text-warning": {
+        "prefix": "b:has-text-warning",
+        "body": "has-text-warning",
+        "description": "Color hsl(48, 100%, 67%)"
+    },
+    "Bulma Color Helpers has-text-danger": {
+        "prefix": "b:has-text-danger",
+        "body": "has-text-danger",
+        "description": "Color hsl(348, 100%, 61%)"
+    },
+    "Bulma Color Helpers has-text-black-bis": {
+        "prefix": "b:has-text-black-bis",
+        "body": "has-text-black-bis",
+        "description": "Color hsl(0, 0%, 7%)"
+    },
+    "Bulma Color Helpers has-text-black-ter": {
+        "prefix": "b:has-text-black-ter",
+        "body": "has-text-black-ter",
+        "description": "Color hsl(0, 0%, 14%)"
+    },
+    "Bulma Color Helpers has-text-grey-darker": {
+        "prefix": "b:has-text-grey-darker",
+        "body": "has-text-grey-darker",
+        "description": "Color hsl(0, 0%, 21%)"
+    },
+    "Bulma Color Helpers has-text-grey-dark": {
+        "prefix": "b:has-text-grey-dark",
+        "body": "has-text-grey-dark",
+        "description": "Color hsl(0, 0%, 29%)"
+    },
+    "Bulma Color Helpers has-text-grey": {
+        "prefix": "b:has-text-grey",
+        "body": "has-text-grey",
+        "description": "Color hsl(0, 0%, 48%)"
+    },
+    "Bulma Color Helpers has-text-grey-light": {
+        "prefix": "b:has-text-grey-light",
+        "body": "has-text-grey-light",
+        "description": "Color hsl(0, 0%, 71%)"
+    },
+    "Bulma Color Helpers has-text-grey-lighter": {
+        "prefix": "b:has-text-grey-lighter",
+        "body": "has-text-grey-lighter",
+        "description": "Color hsl(0, 0%, 86%)"
+    },
+    "Bulma Color Helpers has-text-white-ter": {
+        "prefix": "b:has-text-white-ter",
+        "body": "has-text-white-ter",
+        "description": "Color hsl(0, 0%, 96%)"
+    },
+    "Bulma Color Helpers has-text-white-bis": {
+        "prefix": "b:has-text-white-bis",
+        "body": "has-text-white-bis",
+        "description": "Color hsl(0, 0%, 98%)"
+    },
+    "Bulma Typography Helpers is-size-1": {
+        "prefix": "b:is-size-1",
+        "body": "is-size-1",
+        "description": "Font-size 3rem"
+    },
+    "Bulma Typography Helpers is-size-1-desktop": {
+        "prefix": "b:is-size-1-desktop",
+        "body": "is-size-1-desktop",
+        "description": "Font-size 3rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-1-fullhd": {
+        "prefix": "b:is-size-1-fullhd",
+        "body": "is-size-1-fullhd",
+        "description": "Font-size 3rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-1-mobile": {
+        "prefix": "b:is-size-1-mobile",
+        "body": "is-size-1-mobile",
+        "description": "Font-size 3rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-1-tablet": {
+        "prefix": "b:is-size-1-tablet",
+        "body": "is-size-1-tablet",
+        "description": "Font-size 3rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-1-touch": {
+        "prefix": "b:is-size-1-touch",
+        "body": "is-size-1-touch",
+        "description": "Font-size 3rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-1-widescreen": {
+        "prefix": "b:is-size-1-widescreen",
+        "body": "is-size-1-widescreen",
+        "description": "Font-size 3rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-2": {
+        "prefix": "b:is-size-2",
+        "body": "is-size-2",
+        "description": "Font-size 2.5rem"
+    },
+    "Bulma Typography Helpers is-size-2-desktop": {
+        "prefix": "b:is-size-2-desktop",
+        "body": "is-size-2-desktop",
+        "description": "Font-size 2.5rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-2-fullhd": {
+        "prefix": "b:is-size-2-fullhd",
+        "body": "is-size-2-fullhd",
+        "description": "Font-size 2.5rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-2-mobile": {
+        "prefix": "b:is-size-2-mobile",
+        "body": "is-size-2-mobile",
+        "description": "Font-size 2.5rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-2-tablet": {
+        "prefix": "b:is-size-2-tablet",
+        "body": "is-size-2-tablet",
+        "description": "Font-size 2.5rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-2-touch": {
+        "prefix": "b:is-size-2-touch",
+        "body": "is-size-2-touch",
+        "description": "Font-size 2.5rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-2-widescreen": {
+        "prefix": "b:is-size-2-widescreen",
+        "body": "is-size-2-widescreen",
+        "description": "Font-size 2.5rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-3": {
+        "prefix": "b:is-size-3",
+        "body": "is-size-3",
+        "description": "Font-size 2rem"
+    },
+    "Bulma Typography Helpers is-size-3-desktop": {
+        "prefix": "b:is-size-3-desktop",
+        "body": "is-size-3-desktop",
+        "description": "Font-size 2rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-3-fullhd": {
+        "prefix": "b:is-size-3-fullhd",
+        "body": "is-size-3-fullhd",
+        "description": "Font-size 2rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-3-mobile": {
+        "prefix": "b:is-size-3-mobile",
+        "body": "is-size-3-mobile",
+        "description": "Font-size 2rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-3-tablet": {
+        "prefix": "b:is-size-3-tablet",
+        "body": "is-size-3-tablet",
+        "description": "Font-size 2rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-3-touch": {
+        "prefix": "b:is-size-3-touch",
+        "body": "is-size-3-touch",
+        "description": "Font-size 2rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-3-widescreen": {
+        "prefix": "b:is-size-3-widescreen",
+        "body": "is-size-3-widescreen",
+        "description": "Font-size 2rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-4": {
+        "prefix": "b:is-size-4",
+        "body": "is-size-4",
+        "description": "Font-size 1.5rem"
+    },
+    "Bulma Typography Helpers is-size-4-desktop": {
+        "prefix": "b:is-size-4-desktop",
+        "body": "is-size-4-desktop",
+        "description": "Font-size 1.5rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-4-fullhd": {
+        "prefix": "b:is-size-4-fullhd",
+        "body": "is-size-4-fullhd",
+        "description": "Font-size 1.5rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-4-mobile": {
+        "prefix": "b:is-size-4-mobile",
+        "body": "is-size-4-mobile",
+        "description": "Font-size 1.5rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-4-tablet": {
+        "prefix": "b:is-size-4-tablet",
+        "body": "is-size-4-tablet",
+        "description": "Font-size 1.5rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-4-touch": {
+        "prefix": "b:is-size-4-touch",
+        "body": "is-size-4-touch",
+        "description": "Font-size 1.5rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-4-widescreen": {
+        "prefix": "b:is-size-4-widescreen",
+        "body": "is-size-4-widescreen",
+        "description": "Font-size 1.5rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-5": {
+        "prefix": "b:is-size-5",
+        "body": "is-size-5",
+        "description": "Font-size 1.25rem"
+    },
+    "Bulma Typography Helpers is-size-5-desktop": {
+        "prefix": "b:is-size-5-desktop",
+        "body": "is-size-5-desktop",
+        "description": "Font-size 1.25rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-5-fullhd": {
+        "prefix": "b:is-size-5-fullhd",
+        "body": "is-size-5-fullhd",
+        "description": "Font-size 1.25rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-5-mobile": {
+        "prefix": "b:is-size-5-mobile",
+        "body": "is-size-5-mobile",
+        "description": "Font-size 1.25rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-5-tablet": {
+        "prefix": "b:is-size-5-tablet",
+        "body": "is-size-5-tablet",
+        "description": "Font-size 1.25rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-5-touch": {
+        "prefix": "b:is-size-5-touch",
+        "body": "is-size-5-touch",
+        "description": "Font-size 1.25rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-5-widescreen": {
+        "prefix": "b:is-size-5-widescreen",
+        "body": "is-size-5-widescreen",
+        "description": "Font-size 1.25rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-6": {
+        "prefix": "b:is-size-6",
+        "body": "is-size-6",
+        "description": "Font-size 1rem"
+    },
+    "Bulma Typography Helpers is-size-6-desktop": {
+        "prefix": "b:is-size-6-desktop",
+        "body": "is-size-6-desktop",
+        "description": "Font-size 1rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-6-fullhd": {
+        "prefix": "b:is-size-6-fullhd",
+        "body": "is-size-6-fullhd",
+        "description": "Font-size 1rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-6-mobile": {
+        "prefix": "b:is-size-6-mobile",
+        "body": "is-size-6-mobile",
+        "description": "Font-size 1rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-6-tablet": {
+        "prefix": "b:is-size-6-tablet",
+        "body": "is-size-6-tablet",
+        "description": "Font-size 1rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-6-touch": {
+        "prefix": "b:is-size-6-touch",
+        "body": "is-size-6-touch",
+        "description": "Font-size 1rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-6-widescreen": {
+        "prefix": "b:is-size-6-widescreen",
+        "body": "is-size-6-widescreen",
+        "description": "Font-size 1rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-7": {
+        "prefix": "b:is-size-7",
+        "body": "is-size-7",
+        "description": "Font-size 0.75rem"
+    },
+    "Bulma Typography Helpers is-size-7-desktop": {
+        "prefix": "b:is-size-7-desktop",
+        "body": "is-size-7-desktop",
+        "description": "Font-size 0.75rem for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-7-fullhd": {
+        "prefix": "b:is-size-7-fullhd",
+        "body": "is-size-7-fullhd",
+        "description": "Font-size 0.75rem for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-7-mobile": {
+        "prefix": "b:is-size-7-mobile",
+        "body": "is-size-7-mobile",
+        "description": "Font-size 0.75rem for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers is-size-7-tablet": {
+        "prefix": "b:is-size-7-tablet",
+        "body": "is-size-7-tablet",
+        "description": "Font-size 0.75rem for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers is-size-7-touch": {
+        "prefix": "b:is-size-7-touch",
+        "body": "is-size-7-touch",
+        "description": "Font-size 0.75rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers is-size-7-widescreen": {
+        "prefix": "b:is-size-7-widescreen",
+        "body": "is-size-7-widescreen",
+        "description": "Font-size 0.75rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-centered": {
+        "prefix": "b:has-text-centered",
+        "body": "has-text-centered",
+        "description": "Makes the text centered"
+    },
+    "Bulma Typography Helpers has-text-centered-desktop": {
+        "prefix": "b:has-text-centered-desktop",
+        "body": "has-text-centered-desktop",
+        "description": "Makes the text centered for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-centered-desktop-only": {
+        "prefix": "b:has-text-centered-desktop-only",
+        "body": "has-text-centered-desktop-only",
+        "description": "Makes the text centered for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Typography Helpers has-text-centered-fullhd": {
+        "prefix": "b:has-text-centered-fullhd",
+        "body": "has-text-centered-fullhd",
+        "description": "Makes the text centered for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-centered-mobile": {
+        "prefix": "b:has-text-centered-mobile",
+        "body": "has-text-centered-mobile",
+        "description": "Makes the text centered for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers has-text-centered-tablet": {
+        "prefix": "b:has-text-centered-tablet",
+        "body": "has-text-centered-tablet",
+        "description": "Makes the text centered for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-centered-tablet-only": {
+        "prefix": "b:has-text-centered-tablet-only",
+        "body": "has-text-centered-tablet-only",
+        "description": "Makes the text centered for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-centered-touch": {
+        "prefix": "b:has-text-centered-touch",
+        "body": "has-text-centered-touch",
+        "description": "Makes the text centered for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-centered-widescreen": {
+        "prefix": "b:has-text-centered-widescreen",
+        "body": "has-text-centered-widescreen",
+        "description": "Makes the text centered for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-centered-widescreen-only": {
+        "prefix": "b:has-text-centered-widescreen-only",
+        "body": "has-text-centered-widescreen-only",
+        "description": "Makes the text centered for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Typography Helpers has-text-justified": {
+        "prefix": "b:has-text-justified",
+        "body": "has-text-justified",
+        "description": "Makes the text justified"
+    },
+    "Bulma Typography Helpers has-text-justified-desktop": {
+        "prefix": "b:has-text-justified-desktop",
+        "body": "has-text-justified-desktop",
+        "description": "Makes the text justified for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-justified-desktop-only": {
+        "prefix": "b:has-text-justified-desktop-only",
+        "body": "has-text-justified-desktop-only",
+        "description": "Makes the text justified for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Typography Helpers has-text-justified-fullhd": {
+        "prefix": "b:has-text-justified-fullhd",
+        "body": "has-text-justified-fullhd",
+        "description": "Makes the text justified for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-justified-mobile": {
+        "prefix": "b:has-text-justified-mobile",
+        "body": "has-text-justified-mobile",
+        "description": "Makes the text justified for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers has-text-justified-tablet": {
+        "prefix": "b:has-text-justified-tablet",
+        "body": "has-text-justified-tablet",
+        "description": "Makes the text justified for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-justified-tablet-only": {
+        "prefix": "b:has-text-justified-tablet-only",
+        "body": "has-text-justified-tablet-only",
+        "description": "Makes the text justified for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-justified-touch": {
+        "prefix": "b:has-text-justified-touch",
+        "body": "has-text-justified-touch",
+        "description": "Makes the text justified for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-justified-widescreen": {
+        "prefix": "b:has-text-justified-widescreen",
+        "body": "has-text-justified-widescreen",
+        "description": "Makes the text justified for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-justified-widescreen-only": {
+        "prefix": "b:has-text-justified-widescreen-only",
+        "body": "has-text-justified-widescreen-only",
+        "description": "Makes the text justified for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Typography Helpers has-text-left": {
+        "prefix": "b:has-text-left",
+        "body": "has-text-left",
+        "description": "Makes the text aligned to the left"
+    },
+    "Bulma Typography Helpers has-text-left-desktop": {
+        "prefix": "b:has-text-left-desktop",
+        "body": "has-text-left-desktop",
+        "description": "Makes the text aligned to the left for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-left-desktop-only": {
+        "prefix": "b:has-text-left-desktop-only",
+        "body": "has-text-left-desktop-only",
+        "description": "Makes the text aligned to the left for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Typography Helpers has-text-left-fullhd": {
+        "prefix": "b:has-text-left-fullhd",
+        "body": "has-text-left-fullhd",
+        "description": "Makes the text aligned to the left for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-left-mobile": {
+        "prefix": "b:has-text-left-mobile",
+        "body": "has-text-left-mobile",
+        "description": "Makes the text aligned to the left for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers has-text-left-tablet": {
+        "prefix": "b:has-text-left-tablet",
+        "body": "has-text-left-tablet",
+        "description": "Makes the text aligned to the left for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-left-tablet-only": {
+        "prefix": "b:has-text-left-tablet-only",
+        "body": "has-text-left-tablet-only",
+        "description": "Makes the text aligned to the left for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-left-touch": {
+        "prefix": "b:has-text-left-touch",
+        "body": "has-text-left-touch",
+        "description": "Makes the text aligned to the left for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-left-widescreen": {
+        "prefix": "b:has-text-left-widescreen",
+        "body": "has-text-left-widescreen",
+        "description": "Makes the text aligned to the left for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-left-widescreen-only": {
+        "prefix": "b:has-text-left-widescreen-only",
+        "body": "has-text-left-widescreen-only",
+        "description": "Makes the text aligned to the left for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Typography Helpers has-text-right": {
+        "prefix": "b:has-text-right",
+        "body": "has-text-right",
+        "description": "Makes the text aligned to the right"
+    },
+    "Bulma Typography Helpers has-text-right-desktop": {
+        "prefix": "b:has-text-right-desktop",
+        "body": "has-text-right-desktop",
+        "description": "Makes the text aligned to the right for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-right-desktop-only": {
+        "prefix": "b:has-text-right-desktop-only",
+        "body": "has-text-right-desktop-only",
+        "description": "Makes the text aligned to the right for Desktop (between 1024px and 1215px)"
+    },
+    "Bulma Typography Helpers has-text-right-fullhd": {
+        "prefix": "b:has-text-right-fullhd",
+        "body": "has-text-right-fullhd",
+        "description": "Makes the text aligned to the right for FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-right-mobile": {
+        "prefix": "b:has-text-right-mobile",
+        "body": "has-text-right-mobile",
+        "description": "Makes the text aligned to the right for Mobile (Up to 768px)"
+    },
+    "Bulma Typography Helpers has-text-right-tablet": {
+        "prefix": "b:has-text-right-tablet",
+        "body": "has-text-right-tablet",
+        "description": "Makes the text aligned to the right for Tablet (between 769px and 1023px), Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-right-tablet-only": {
+        "prefix": "b:has-text-right-tablet-only",
+        "body": "has-text-right-tablet-only",
+        "description": "Makes the text aligned to the right for Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-right-touch": {
+        "prefix": "b:has-text-right-touch",
+        "body": "has-text-right-touch",
+        "description": "Makes the text aligned to the right for Mobile (up to 768px) & Tablet (between 769px and 1023px)"
+    },
+    "Bulma Typography Helpers has-text-right-widescreen": {
+        "prefix": "b:has-text-right-widescreen",
+        "body": "has-text-right-widescreen",
+        "description": "Makes the text aligned to the right for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)"
+    },
+    "Bulma Typography Helpers has-text-right-widescreen-only": {
+        "prefix": "b:has-text-right-widescreen-only",
+        "body": "has-text-right-widescreen-only",
+        "description": "Makes the text aligned to the right for Widescreen (between 1216px and 1407px)"
+    },
+    "Bulma Typography Helpers is-capitalized": {
+        "prefix": "b:is-capitalized",
+        "body": "is-capitalized",
+        "description": "Transforms the first character of each word to uppercase"
+    },
+    "Bulma Typography Helpers is-lowercase": {
+        "prefix": "b:is-lowercase",
+        "body": "is-lowercase",
+        "description": "Transforms all characters to lowercase"
+    },
+    "Bulma Typography Helpers is-uppercase": {
+        "prefix": "b:is-uppercase",
+        "body": "is-uppercase",
+        "description": "Transforms all characters to uppercase"
+    },
+    "Bulma Typography Helpers is-italic": {
+        "prefix": "b:is-italic",
+        "body": "is-italic",
+        "description": "Transforms all characters to italic"
+    },
+    "Bulma Typography Helpers has-text-weight-light": {
+        "prefix": "b:has-text-weight-light",
+        "body": "has-text-weight-light",
+        "description": "Transforms text weight to light"
+    },
+    "Bulma Typography Helpers has-text-weight-normal": {
+        "prefix": "b:has-text-weight-normal",
+        "body": "has-text-weight-normal",
+        "description": "Transforms text weight to normal"
+    },
+    "Bulma Typography Helpers has-text-weight-medium": {
+        "prefix": "b:has-text-weight-medium",
+        "body": "has-text-weight-medium",
+        "description": "Transforms text weight to medium"
+    },
+    "Bulma Typography Helpers has-text-weight-semibold": {
+        "prefix": "b:has-text-weight-semibold",
+        "body": "has-text-weight-semibold",
+        "description": "Transforms text weight to semi-bold"
+    },
+    "Bulma Typography Helpers has-text-weight-bold": {
+        "prefix": "b:has-text-weight-bold",
+        "body": "has-text-weight-bold",
+        "description": "Transforms text weight to bold"
+    },
+    "Bulma Typography Helpers is-family-sans-serif": {
+        "prefix": "b:is-family-sans-serif",
+        "body": "is-family-sans-serif",
+        "description": "Sets font family to $family-sans-serif"
+    },
+    "Bulma Typography Helpers is-family-monospace": {
+        "prefix": "b:is-family-monospace",
+        "body": "is-family-monospace",
+        "description": "Sets font family to $family-monospace"
+    },
+    "Bulma Typography Helpers is-family-primary": {
+        "prefix": "b:is-family-primary",
+        "body": "is-family-primary",
+        "description": "Sets font family to $family-primary"
+    },
+    "Bulma Typography Helpers is-family-secondary": {
+        "prefix": "b:is-family-secondary",
+        "body": "is-family-secondary",
+        "description": "Sets font family to $family-secondary"
+    },
+    "Bulma Typography Helpers is-family-code": {
+        "prefix": "b:is-family-code",
+        "body": "is-family-code",
+        "description": "Sets font family to $family-code"
+    },
+    "Bulma Columns : 2": {
+        "prefix": "b:columns:2",
+        "body": [
+            "<div class=\"columns\">",
+            "\t<div class=\"column\">",
+            "\t\t$1",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$0",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "2 columns of equal width"
+    },
+    "Bulma Columns : 3": {
+        "prefix": "b:columns:3",
+        "body": [
+            "<div class=\"columns\">",
+            "\t<div class=\"column\">",
+            "\t\t$1",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$2",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$0",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "3 columns of equal width"
+    },
+    "Bulma Columns : 4": {
+        "prefix": "b:columns:4",
+        "body": [
+            "<div class=\"columns\">",
+            "\t<div class=\"column\">",
+            "\t\t$1",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$2",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$3",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$0",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "4 columns of equal width"
+    },
+    "Bulma Columns : 5": {
+        "prefix": "b:columns:5",
+        "body": [
+            "<div class=\"columns\">",
+            "\t<div class=\"column\">",
+            "\t\t$1",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$2",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$3",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$4",
+            "\t</div>",
+            "\t<div class=\"column\">",
+            "\t\t$0",
+            "\t</div>",
+            "</div>"
+        ],
+        "description": "5 columns of equal width"
+    },
+    "Bulma Column Size is-three-quarters": {
+        "prefix": "b:is-three-quarters",
+        "body": "is-three-quarters",
+        "description": "Column has a width of three quarters"
+    },
+    "Bulma Column Size is-half": {
+        "prefix": "b:is-half",
+        "body": "is-half",
+        "description": "Column has half width"
+    },
+    "Bulma Column Size is-one-quarter": {
+        "prefix": "b:is-one-quarter",
+        "body": "is-one-quarter",
+        "description": "Column has a width of one quarter"
+    },
+    "Bulma Column Size is-one-third": {
+        "prefix": "b:is-one-third",
+        "body": "is-one-third",
+        "description": "Column has a width of one third"
+    },
+    "Bulma Column Size is-two-thirds": {
+        "prefix": "b:is-two-thirds",
+        "body": "is-two-thirds",
+        "description": "Column has a width of two thirds"
+    },
+    "Bulma Column Size is-four-fifths": {
+        "prefix": "b:is-four-fifths",
+        "body": "is-four-fifths",
+        "description": "Column has a width of four fifths"
+    },
+    "Bulma Column Size is-three-fifths": {
+        "prefix": "b:is-three-fifths",
+        "body": "is-three-fifths",
+        "description": "Column has a width of three fifths"
+    },
+    "Bulma Column Size is-two-fifths": {
+        "prefix": "b:is-two-fifths",
+        "body": "is-two-fifths",
+        "description": "Column has a width of two fifths"
+    },
+    "Bulma Column Size is-one-fifth": {
+        "prefix": "b:is-one-fifth",
+        "body": "is-one-fifth",
+        "description": "Column has a width of one fifth"
+    },
+    "Bulma Column Size is-full": {
+        "prefix": "b:is-full",
+        "body": "is-full",
+        "description": "Column has full width"
+    },
+}

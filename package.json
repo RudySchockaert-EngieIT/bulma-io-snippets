@@ -1,0 +1,24 @@
+{
+    "name": "bulma-io-snippets",
+    "displayName": "bulma.io snippets",
+    "description": "A collection of snippets for Bulma.io",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "snippets": [{
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

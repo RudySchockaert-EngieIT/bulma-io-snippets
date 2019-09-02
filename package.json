@@ -9,9 +9,9 @@
     "categories": [
         "Snippets"
     ],
-    "icon": "icon.png",
     "contributes": {
-        "snippets": [{
+        "snippets": [
+            {
                 "language": "html",
                 "path": "./snippets/snippets.json"
             },

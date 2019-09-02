@@ -1102,5 +1102,5 @@
         "prefix": "b:is-full",
         "body": "is-full",
         "description": "Column has full width"
-    },
+    }
 }

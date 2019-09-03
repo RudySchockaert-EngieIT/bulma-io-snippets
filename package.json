@@ -10,6 +10,11 @@
         "Snippets"
     ],
     "contributes": {
+        "languages": [{
+            "id": "svelte",
+            "extensions": [ ".svelte" ],
+            "aliases": [ "Svelte", "svelte" ]
+        }],
         "snippets": [
             {
                 "language": "html",

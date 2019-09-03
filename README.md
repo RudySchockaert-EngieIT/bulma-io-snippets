@@ -1,6 +1,18 @@
 # bulma-io-snippets README
 
 This is still work-in-progress. Check the CHANGELOG.md to see what is alreay available.
+## Table Of Content
+1. [Overview](##Overview)
+   - [Start](###Start)
+2. [Modifiers](##Modifiers)
+    - [Helpers](###Helpers)
+    - [Responsive Helpers](###Responsive-Helpers)
+    - [Color Helpers](###Color-Helpers)
+    - [Typography Helpers](###Typography-Helpers)
+3. [Columns](##Columns)
+    - [Basics](###Basics)
+    - [Column sizes](###Column-sizes)
+
 
 ## [Overview](https://bulma.io/documentation/overview)
 
@@ -9,6 +21,8 @@ This is still work-in-progress. Check the CHANGELOG.md to see what is alreay ava
 Trigger | Description
 --- | ---
 b:Font.Awesome.5|If you want to use icons with Bulma, don't forget to include (Font Awesome 5)[https://fontawesome.com/]
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 ## [Modifiers](https://bulma.io/documentation/modifiers)
 
@@ -30,6 +44,8 @@ b:is-hidden|Hides element
 b:is-sr-only|Hide elements visually but keep the element available to be announced by a screen reader
 b:is-relative|Applies 'position: relative' to the element.
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 ### [Responsive Helpers](https://bulma.io/documentation/modifiers/responsive-helpers)
 Trigger | Description
 --- | ---
@@ -44,6 +60,8 @@ b:is-block-widescreen|'display: block !important;' for Widescreen (between 1216p
 b:is-block-widescreen-only|'display: block !important;' for Widescreen (between 1216px and 1407px)
 b:is-block-fullhd|'display: block !important;' for FullHD (1408px and above)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:is-flex|'display: flex !important;'
@@ -56,6 +74,8 @@ b:is-flex-desktop-only|'display: flex !important;' for Desktop (between 1024px a
 b:is-flex-widescreen|'display: flex !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:is-flex-widescreen-only|'display: flex !important;' for Widescreen (between 1216px and 1407px)
 b:is-flex-fullhd|'display: flex !important;' for FullHD (1408px and above)
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 Trigger | Description
 --- | ---
@@ -70,6 +90,8 @@ b:is-inline-widescreen|'display: inline !important;' for Widescreen (between 121
 b:is-inline-widescreen-only|'display: inline !important;' for Widescreen (between 1216px and 1407px)
 b:is-inline-fullhd|'display: inline !important;' for FullHD (1408px and above)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:is-inline-block|'display: inline-block !important;'
@@ -82,6 +104,8 @@ b:is-inline-block-desktop-only|'display: inline-block !important;' for Desktop (
 b:is-inline-block-widescreen|'display: inline-block !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:is-inline-block-widescreen-only|'display: inline-block !important;' for Widescreen (between 1216px and 1407px)
 b:is-inline-block-fullhd|'display: inline-block !important;' for FullHD (1408px and above)
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 Trigger | Description
 --- | ---
@@ -96,6 +120,8 @@ b:is-inline-flex-widescreen|'display: inline-flex !important;' for Widescreen (b
 b:is-inline-flex-widescreen-only|'display: inline-flex !important;' for Widescreen (between 1216px and 1407px)
 b:is-inline-flex-fullhd|'display: inline-flex !important;' for FullHD (1408px and above)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:is-hidden-mobile|'display: none !important;' for Mobile (Up to 768px)
@@ -107,6 +133,8 @@ b:is-hidden-tablet|'display: none !important;' for Tablet (between 769px and 102
 b:is-hidden-desktop|'display: none !important;' for Desktop (between 1024px and 1215px), Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:is-hidden-widescreen|'display: none !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:is-hidden-fullhd|'display: none !important;' for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 
 ### [Color Helpers](https://bulma.io/documentation/modifiers/color-helpers)
 Trigger | Description
@@ -131,6 +159,8 @@ b:has-text-grey-lighter|Text Color hsl(0, 0%, 86%)
 b:has-text-white-ter|Text Color hsl(0, 0%, 96%)
 b:has-text-white-bis|Text Color hsl(0, 0%, 98%)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:has-background-white|Background Color hsl(0, 0%, 100%)
@@ -152,6 +182,8 @@ b:has-background-grey-light|Background Color hsl(0, 0%, 71%)
 b:has-background-grey-lighter|Background Color hsl(0, 0%, 86%)
 b:has-background-white-ter|Background Color hsl(0, 0%, 96%)
 b:has-background-white-bis|Background Color hsl(0, 0%, 98%)
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 ### [Typography Helpers](https://bulma.io/documentation/modifiers/typography-helpers)
 Trigger | Description
@@ -206,6 +238,8 @@ b:is-size-7-tablet|Font-size 0.75rem for Tablet (between 769px and 1023px), Desk
 b:is-size-7-touch|Font-size 0.75rem for Mobile (up to 768px) & Tablet (between 769px and 1023px)
 b:is-size-7-widescreen|Font-size 0.75rem for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:has-text-centered|Makes the text centered
@@ -218,6 +252,8 @@ b:has-text-centered-tablet-only|Makes the text centered for Tablet (between 769p
 b:has-text-centered-touch|Makes the text centered for Mobile (up to 768px) & Tablet (between 769px and 1023px)
 b:has-text-centered-widescreen|Makes the text centered for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:has-text-centered-widescreen-only|Makes the text centered for Widescreen (between 1216px and 1407px)
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 Trigger | Description
 --- | ---
@@ -232,6 +268,8 @@ b:has-text-justified-touch|Makes the text justified for Mobile (up to 768px) & T
 b:has-text-justified-widescreen|Makes the text justified for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:has-text-justified-widescreen-only|Makes the text justified for Widescreen (between 1216px and 1407px)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:has-text-left|Makes the text aligned to the left
@@ -244,6 +282,8 @@ b:has-text-left-tablet-only|Makes the text aligned to the left for Tablet (betwe
 b:has-text-left-touch|Makes the text aligned to the left for Mobile (up to 768px) & Tablet (between 769px and 1023px)
 b:has-text-left-widescreen|Makes the text aligned to the left for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:has-text-left-widescreen-only|Makes the text aligned to the left for Widescreen (between 1216px and 1407px)
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 Trigger | Description
 --- | ---
@@ -258,12 +298,16 @@ b:has-text-right-touch|Makes the text aligned to the right for Mobile (up to 768
 b:has-text-right-widescreen|Makes the text aligned to the right for Widescreen (between 1216px and 1407px) & FullHD (1408px and above)
 b:has-text-right-widescreen-only|Makes the text aligned to the right for Widescreen (between 1216px and 1407px)
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:is-capitalized|Transforms the first character of each word to uppercase
 b:is-lowercase|Transforms all characters to lowercase
 b:is-uppercase|Transforms all characters to uppercase
 b:is-italic|Transforms all characters to italic
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 Trigger | Description
 --- | ---
@@ -273,6 +317,8 @@ b:has-text-weight-medium|Transforms text weight to medium
 b:has-text-weight-semibold|Transforms text weight to semi-bold
 b:has-text-weight-bold|Transforms text weight to bold
 
+<p align="right"><a href="#table-of-content">TOC</a></p>
+
 Trigger | Description
 --- | ---
 b:is-family-sans-serif|Sets font family to $family-sans-serif
@@ -280,6 +326,8 @@ b:is-family-monospace|Sets font family to $family-monospace
 b:is-family-primary|Sets font family to $family-primary
 b:is-family-secondary|Sets font family to $family-secondary
 b:is-family-code|Sets font family to $family-code
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 ## [Columns](https://bulma.io/documentation/columns)
 
@@ -290,6 +338,8 @@ b:columns:2|2 columns of equal width
 b:columns:3|3 columns of equal width
 b:columns:4|4 columns of equal width
 b:columns:5|5 columns of equal width
+
+<p align="right"><a href="#table-of-content">TOC</a></p>
 
 ### [Column sizes](https://bulma.io/documentation/columns/sizes)
 Trigger | Description
@@ -305,3 +355,4 @@ b:is-two-fifths|Column has a width of two fifths
 b:is-one-fifth|Column has a width of one fifth
 b:is-full|Column has full width
 
+<p align="right"><a href="#table-of-content">TOC</a></p>

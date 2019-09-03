@@ -54,14 +54,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2019-09-01
 Initial release includes:
-- Helpers
-    - Float
-    - Spacing
-    - Other
-- Responsive helpers
-- Color helpers
-- Typography helpers
+- Overview (partial)
+- Modifiers
+    - Helpers
+    - Responsive helpers
+    - Color helpers
+    - Typography helpers
 - Columns
     - Basics
-    -Sizes (partial)
+    - Sizes (partial)
 

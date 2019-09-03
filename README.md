@@ -1,5 +1,7 @@
 # bulma-io-snippets README
 
+This is still work-in-progress. Check the CHANGELOG.md to see what is alreay available.
+
 ## [Overview](https://bulma.io/documentation/overview)
 
 ### [Start](https://bulma.io/documentation/overview/start)

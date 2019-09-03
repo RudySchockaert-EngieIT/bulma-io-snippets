@@ -1,6 +1,6 @@
 # bulma-io-snippets README
 
-This is still work-in-progress. Check the CHANGELOG.md to see what is alreay available.
+This is still work-in-progress. Check the [changelog](CHANGELOG.md) to see what is alreay available.
 ## Table Of Content
 1. [Overview](##Overview)
    - [Start](###Start)

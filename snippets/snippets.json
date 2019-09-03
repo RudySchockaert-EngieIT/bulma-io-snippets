@@ -1,5 +1,10 @@
 {
-    "Bulma v Float is-clearfix": {
+    "Bulma Starter add Font Awesome 5": {
+        "prefix": "b:Font.Awesome.5",
+        "description": "Bulma Starter add Font Awesome 5",
+        "body": "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>\n"
+    },
+    "Bulma Helpers Float is-clearfix": {
         "prefix": "b:is-clearfix",
         "body": "is-clearfix",
         "description": "Fixes an element's floating children"
@@ -462,6 +467,101 @@
     "Bulma Color Helpers has-text-white-bis": {
         "prefix": "b:has-text-white-bis",
         "body": "has-text-white-bis",
+        "description": "Color hsl(0, 0%, 98%)"
+    },
+    "Bulma Color Helpers has-background-white": {
+        "prefix": "b:has-background-white",
+        "body": "has-background-white",
+        "description": "Color hsl(0, 0%, 100%)"
+    },
+    "Bulma Color Helpers has-background-black": {
+        "prefix": "b:has-background-black",
+        "body": "has-background-black",
+        "description": "Color hsl(0, 0%, 4%)"
+    },
+    "Bulma Color Helpers has-background-light": {
+        "prefix": "b:has-background-light",
+        "body": "has-background-light",
+        "description": "Color hsl(0, 0%, 96%)"
+    },
+    "Bulma Color Helpers has-background-dark": {
+        "prefix": "b:has-background-dark",
+        "body": "has-background-dark",
+        "description": "Color hsl(0, 0%, 21%)"
+    },
+    "Bulma Color Helpers has-background-primary": {
+        "prefix": "b:has-background-primary",
+        "body": "has-background-primary",
+        "description": "Color hsl(171, 100%, 41%)"
+    },
+    "Bulma Color Helpers has-background-info": {
+        "prefix": "b:has-background-info",
+        "body": "has-background-info",
+        "description": "Color hsl(204, 86%, 53%)"
+    },
+    "Bulma Color Helpers has-background-link": {
+        "prefix": "b:has-background-link",
+        "body": "has-background-link",
+        "description": "Color hsl(217, 71%, 53%)"
+    },
+    "Bulma Color Helpers has-background-success": {
+        "prefix": "b:has-background-success",
+        "body": "has-background-success",
+        "description": "Color hsl(141, 71%, 48%)"
+    },
+    "Bulma Color Helpers has-background-warning": {
+        "prefix": "b:has-background-warning",
+        "body": "has-background-warning",
+        "description": "Color hsl(48, 100%, 67%)"
+    },
+    "Bulma Color Helpers has-background-danger": {
+        "prefix": "b:has-background-danger",
+        "body": "has-background-danger",
+        "description": "Color hsl(348, 100%, 61%)"
+    },
+    "Bulma Color Helpers has-background-black-bis": {
+        "prefix": "b:has-background-black-bis",
+        "body": "has-background-black-bis",
+        "description": "Color hsl(0, 0%, 7%)"
+    },
+    "Bulma Color Helpers has-background-black-ter": {
+        "prefix": "b:has-background-black-ter",
+        "body": "has-background-black-ter",
+        "description": "Color hsl(0, 0%, 14%)"
+    },
+    "Bulma Color Helpers has-background-grey-darker": {
+        "prefix": "b:has-background-grey-darker",
+        "body": "has-background-grey-darker",
+        "description": "Color hsl(0, 0%, 21%)"
+    },
+    "Bulma Color Helpers has-background-grey-dark": {
+        "prefix": "b:has-background-grey-dark",
+        "body": "has-background-grey-dark",
+        "description": "Color hsl(0, 0%, 29%)"
+    },
+    "Bulma Color Helpers has-background-grey": {
+        "prefix": "b:has-background-grey",
+        "body": "has-background-grey",
+        "description": "Color hsl(0, 0%, 48%)"
+    },
+    "Bulma Color Helpers has-background-grey-light": {
+        "prefix": "b:has-background-grey-light",
+        "body": "has-background-grey-light",
+        "description": "Color hsl(0, 0%, 71%)"
+    },
+    "Bulma Color Helpers has-background-grey-lighter": {
+        "prefix": "b:has-background-grey-lighter",
+        "body": "has-background-grey-lighter",
+        "description": "Color hsl(0, 0%, 86%)"
+    },
+    "Bulma Color Helpers has-background-white-ter": {
+        "prefix": "b:has-background-white-ter",
+        "body": "has-background-white-ter",
+        "description": "Color hsl(0, 0%, 96%)"
+    },
+    "Bulma Color Helpers has-background-white-bis": {
+        "prefix": "b:has-background-white-bis",
+        "body": "has-background-white-bis",
         "description": "Color hsl(0, 0%, 98%)"
     },
     "Bulma Typography Helpers is-size-1": {
